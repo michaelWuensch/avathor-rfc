@@ -21,7 +21,7 @@ While it is visually hard to check if two node PubKeys are identical, it is very
 ## Implementation
 
 The following list contains ready to use implementations for specific programming languages:
-- Java (Android)
+- [Java (Android)](https://github.com/michaelWuensch/avathor-android-library)
 
 If the list does not contain what you need, you can create your own implementation by following the [specification](REFERENCE.md).
 <br><br>
