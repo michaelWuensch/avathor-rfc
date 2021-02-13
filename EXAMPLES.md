@@ -25,10 +25,16 @@ Humans, robots, aliens and - well... animals are just cute, I couldn't resist! :
 ![](examples/Avathor_alien_4.png)
 ![](examples/Avathor_alien_1.png)
 
-## Animals
+## Animals (Cats & Birds)
 ![](examples/Avathor_animal_1.png)
 ![](examples/Avathor_animal_2.png)
 ![](examples/Avathor_animal_4.png)
 ![](examples/Avathor_animal_5.png)
 ![](examples/Avathor_animal_3.png)
 
+<br><br>
+
+## Implementation example
+This is an example of how this library was used in Zap android to create contacts.
+
+![](examples/Avathor_implementation_example.gif)
